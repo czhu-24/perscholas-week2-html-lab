@@ -1,7 +1,12 @@
 h1{
     text-align: center;
+    font-size: 32px;
 }
 
 body > p{ /*only select the p tag that's a child */
     text-align: center;
+}
+
+section, p {
+    font-size: 20px;
 }
